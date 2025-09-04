@@ -1,5 +1,7 @@
 # Question 1
+
 # Calculator 
+
 
 # This function adds two numbers
 def add(num1, num2):
@@ -64,6 +66,9 @@ while True: # This keeps the action going until the user specifies otherwise or 
         print("Enter a valid number!")
         
 
+
+
+
 # Question 2: Code completion
 
 while True:
@@ -78,6 +83,10 @@ while True:
         print("The number is even")
     else:
         print("The number is odd")
+
+
+
+
 
 
 # Question 3: Debugging

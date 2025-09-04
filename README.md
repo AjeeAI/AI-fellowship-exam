@@ -1,2 +1,4 @@
 This is the README file.
-It basically outlines what this is for describing what this task is all about.
+This exam tests the knowledge of python basics - from input to print to functions. 
+It contains 3 questions of which I have 3 answers in the form of python code.
+
